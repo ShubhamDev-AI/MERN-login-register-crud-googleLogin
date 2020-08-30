@@ -1,2 +1,1 @@
-# MERN-login-register-crud-googleLogin
-Created with CodeSandbox
+# MERN-login-register-user
